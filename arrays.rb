@@ -17,3 +17,8 @@ cats_in_boxes.unshift(false)
 # The array index is how we can pick out specific data or variables inside of our array
 # of data. The array index numbers starting from 0 and moves upward. For example, 1931 in
 # important_dates would be important_dates[1].
+
+# The array method I chose to learn was 'sample' which will pull and display a random
+# value from within the array. 
+past_grades = [100.00, 92.50, 89.75, 23.50]
+past_grades.sample
